@@ -1,5 +1,5 @@
 {
-    "name": "yzalis/supervisor",
+    "name": "avtehnik/supervisor",
     "type": "library",
     "description": "Manage your supervisor instance with PHP..",
     "keywords": ["supervisor", "supervisord", "supervisorctl", "rpc", "api"],
